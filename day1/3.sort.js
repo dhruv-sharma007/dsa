@@ -1,4 +1,4 @@
-let arr = [9, 8, 7, 6, 5, 4, 3, 2, 1];
+let arr = [1, 2, 3, 4, 5, 7, 6];
 console.log("before swapping\n", arr);
 
 for (let i = 0; i <= arr.length - 1; i++) {
@@ -18,3 +18,4 @@ for (let i = 0; i <= arr.length - 1; i++) {
 }
 
 console.log("after swapping", arr);
+
