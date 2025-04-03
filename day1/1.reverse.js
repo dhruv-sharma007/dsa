@@ -8,3 +8,4 @@ for (let i = num.length - 1; i >= 0; i -= 1) {
 }
 
 console.log(newArr);
+for
